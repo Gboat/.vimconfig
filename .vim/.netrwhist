@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/g/workspace/code/chidian/.git'
+let g:netrw_dirhist_2='/home/g/workspace/code/chidian/crawler/spiders'
+let g:netrw_dirhist_3='/home/g/workspace/code/chidian/webserver/mysite'
+let g:netrw_dirhist_4='/home/g/workspace/code/chidian/crawler/spiders'
+let g:netrw_dirhist_5='/home/g/workspace/code/tuancrawler/crawler/spiders'
+let g:netrw_dirhist_6='/home/g/workspace/code/chidian/webserver/cart/migrations'
